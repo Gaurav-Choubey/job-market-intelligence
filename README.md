@@ -4,7 +4,7 @@ An end-to-end data analytics project built to analyze Rajasthan's Data & Analyti
 
 ## Architecture
 
-![Job Market Intelligence Pipeline](assets/pipeline_architecture.png)
+![Job Market Intelligence Pipeline](assets/Architecture%20diagram.png)
 
 ## Dashboard Preview
 
