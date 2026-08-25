@@ -1,0 +1,2298 @@
+[
+  {
+    "description": "This is a remote position. Shuru is a self-managed technology team specializing in accelerating visions through product, technology, and AI leadership. With a focus on bespoke execution, we deliver impactful solutions that are scalable and designed for success. At Shuru, we deliver mobile solutions that meet and exceed customer expectations. Our collaborative and fast-paced environment encourages creativity and innovation. We are looking for a Senior Reporting Analyst with strong hands-on exper…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSUlhT1pVQ2c4UkdzdDRZZkhHTElMQSIsImkiOiI1ODQ5OTIzNjQ4In0.ZfUbkmlGqmkcAph5o3tk9bU2EUxi4NL5tijeTPLA3So",
+    "latitude": 26.9172,
+    "created": "2026-08-21T01:15:50Z",
+    "redirect_url": "https://www.adzuna.in/details/5849923648?utm_medium=api&utm_source=67045292",
+    "title": "Data Analyst",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Shuru Technologies Private Limited"
+    },
+    "salary_is_predicted": "0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Sanganer, Jaipur",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur",
+        "Sanganer"
+      ]
+    },
+    "longitude": 75.80805,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "contract_type": "permanent",
+    "id": "5849923648"
+  },
+  {
+    "company": {
+      "display_name": "Emotions for Business",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "display_name": "Ajmer, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Ajmer"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "description": "Chi è il Data Analyst? È un professionista dotato delle competenze necessarie ad analizzare e aggregare i dati, al fine di studiare, ad esempio, l’andamento di un determinato prodotto e consentire, così, all’azienda di progettare i propri modelli di business in modo prospettico, con creazione di un vantaggio competitivo sul mercato. Il Data Analyst possiede competenze trasversali, che possono essere non solo tecniche ma anche statistiche, gestionali e di comunicazione. Tra le principali attivit…",
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5817333511?utm_medium=api&utm_source=67045292",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxNzMzMzUxMSIsInMiOiJJSWFPWlVDZzhSR3N0NFlmSEdMSUxBIn0.7iWfnMKgwFfHCUR1KLNNRlvRMcMFDmVZ85WQAGQOnD8",
+    "latitude": 26.52495,
+    "created": "2026-07-27T15:56:33Z",
+    "title": "Data Analyst",
+    "id": "5817333511",
+    "longitude": 74.604,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    }
+  },
+  {
+    "id": "3337906172",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "company": {
+      "display_name": "Mr n Mrs Pet",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/3337906172?utm_medium=api&utm_source=67045292",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSUlhT1pVQ2c4UkdzdDRZZkhHTElMQSIsImkiOiIzMzM3OTA2MTcyIn0.zdYeOZIaq2VGKAWJnAVE8dj-fOLkBdxAQBXyDC14ejk",
+    "salary_max": 300000,
+    "salary_min": 100000,
+    "longitude": 75.9469,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Jaipur, Rajasthan",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ]
+    },
+    "contract_time": "full_time",
+    "latitude": 26.7441,
+    "title": "Data Analyst",
+    "created": "2022-07-22T06:48:32Z",
+    "description": "Requirements: Bachelor’s degree from university or college in computer science. Work experience as a data analyst or in a related field. Ability to work with stakeholders to assess potential risks. Ability to analyse existing tools and databases and provide software solution recommendations. Ability to translate business requirements into non-technical, lay terms. High-level experience in methodologies and processes for managing large-scale databases. Demonstrated experience in handling large d…"
+  },
+  {
+    "longitude": 75.92905,
+    "salary_min": 0,
+    "latitude": 25.23239,
+    "title": "Data Analyst",
+    "created": "2021-11-11T04:22:56Z",
+    "contract_time": "full_time",
+    "description": "Required Python ,R work in handling large-scale data engineering pipelines. Excellent verbal and written communication skills. Proficient in PowerPoint or other presentation tools. Ability to work quickly and accurately on multiple projects. Skills:- R Language and Python",
+    "location": {
+      "area": [
+        "India",
+        "Rajasthan",
+        "Kota"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Kota, Rajasthan"
+    },
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "id": "2631733820",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjYzMTczMzgyMCIsInMiOiJJSWFPWlVDZzhSR3N0NFlmSEdMSUxBIn0.MLt6JL3XXnhYJYFo66_cyCSVJ6dlrxJ6NyP1JMdXB1E",
+    "redirect_url": "https://www.adzuna.in/details/2631733820?utm_medium=api&utm_source=67045292",
+    "salary_max": 250000,
+    "salary_is_predicted": "0",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "MedCords"
+    }
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Seternity Solutions"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Rajasthan",
+        "Ajmer"
+      ],
+      "display_name": "Ajmer, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSUlhT1pVQ2c4UkdzdDRZZkhHTElMQSIsImkiOiI1ODM1NDgxODEzIn0.4WwXG5Egl6iOlGuydfBoIO36ePyyJWSoB3KfGOhk6RE",
+    "latitude": 26.52495,
+    "redirect_url": "https://www.adzuna.in/details/5835481813?utm_medium=api&utm_source=67045292",
+    "created": "2026-08-10T16:02:30Z",
+    "title": "Senior Data Analyst",
+    "contract_time": "full_time",
+    "description": "Key Responsibilities Analyze large datasets and generate insights Develop dashboards and automated reports Support business teams with data-driven analysis Improve data processes and reporting structures Review and validate analytical outputs Skills Advanced Excel and data analysis Data visualization tools (Power BI, Tableau) SQL or basic database querying Analytical problem solving Experience Required 2–4 years Education Required Bachelor’s or Master’s degree in Data Analytics, Statistics, Com…",
+    "id": "5835481813",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "longitude": 74.604
+  },
+  {
+    "id": "5822276709",
+    "longitude": 74.604,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "contract_type": "contract",
+    "salary_is_predicted": "0",
+    "company": {
+      "display_name": "OnlineJobs.PH",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Rajasthan",
+        "Ajmer"
+      ],
+      "display_name": "Ajmer, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "description": "For thousands of years, maps have provided humans with the knowledge they need to make decisions. As a Maps Evaluator, you will have the opportunity to provide ground truth for your town, city or country. At Peroptyx, we are looking for Data Analysts who will review mapping data for digital mapping applications. Your research capabilities will validate and ensure that the navigation of certain routes are accurate and safe. As part of this role, you will verify that business names and opening ho…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSUlhT1pVQ2c4UkdzdDRZZkhHTElMQSIsImkiOiI1ODIyMjc2NzA5In0.4ScZyRrh5ZnFW-S_gozg8kQ9bL0sEfv2h-y50lzM51k",
+    "redirect_url": "https://www.adzuna.in/details/5822276709?utm_medium=api&utm_source=67045292",
+    "latitude": 26.52495,
+    "title": "Data Analyst (No Experience Required)",
+    "created": "2026-07-31T15:56:22Z",
+    "contract_time": "part_time"
+  },
+  {
+    "company": {
+      "display_name": "YourHRfolks",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSUlhT1pVQ2c4UkdzdDRZZkhHTElMQSIsImkiOiIyMjEwMzUwNDAxIn0.T1ZmyDgqcV9l_FQD08Of_j0zE7RR6_gT8nhK2bj6KWM",
+    "redirect_url": "https://www.adzuna.in/details/2210350401?utm_medium=api&utm_source=67045292",
+    "salary_max": 1600000,
+    "id": "2210350401",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ]
+    },
+    "latitude": 26.7441,
+    "title": "Senior Data Analyst - Business Insights",
+    "created": "2021-05-26T12:51:52Z",
+    "contract_time": "full_time",
+    "description": "About Us Punchh is the leader in customer loyalty, offer management, and AI solutions for offline and omni-channel merchants including restaurants, convenience stores, and retailers. Punchh brings the power of online to physical brands by delivering omni-channel experiences and personalization across the entire customer journeyfrom acquisition through loyalty and growthto drive same store sales and customer lifetime value. Punchh uses best-in-class integrations to POS and other in-store systems…",
+    "salary_min": 650000,
+    "longitude": 75.9469
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "longitude": 73.699,
+    "id": "5836846759",
+    "contract_time": "full_time",
+    "latitude": 24.55955,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNjg0Njc1OSIsInMiOiJJSWFPWlVDZzhSR3N0NFlmSEdMSUxBIn0.YgbbCL2HcFGEjgPtjFdvAPQ6osEvyxGrUesks9_Xrgw",
+    "redirect_url": "https://www.adzuna.in/details/5836846759?utm_medium=api&utm_source=67045292",
+    "title": "Data & Reporting Analyst (Credit Card Risk)",
+    "created": "2026-08-11T20:59:03Z",
+    "description": "About Kadel Labs Kadel Labs is a deep-tech IT services company delivering high-quality technology solutions since 2017. We specialize in Digital Transformation, Data Engineering, Cloud, AI/ML, and Enterprise Applications, helping global enterprises build scalable and innovative solutions. Kadel Labs is a CMMI Level 3 and ISO 27001:2022 certified organization committed to engineering excellence and customer success. About the Role: Data & Reporting Analyst (Credit Card Risk) Role Purpose: Own ri…",
+    "location": {
+      "area": [
+        "India",
+        "Rajasthan",
+        "Udaipur",
+        "Badgaon"
+      ],
+      "display_name": "Badgaon, Udaipur",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Kadel Labs"
+    },
+    "salary_is_predicted": "0"
+  },
+  {
+    "location": {
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "display_name": "Jaipur, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 26.7441,
+    "title": "PHP Developer",
+    "created": "2021-12-26T04:19:48Z",
+    "contract_time": "full_time",
+    "description": "Good knowledge of SQL and related databases, with a preference for those with MySQL experience. Excellent knowledge of the basic PHP 7 or web server exploits along with their solutions. Experience building or maintaining a CMS. Knowledge of MVC frameworks. A detailed understanding of database design and administration. Proficiency when it comes to code versioning tools. The ability to integrate a variety of data sources and databases into a single system. Proficiency when it comes to code versi…",
+    "salary_min": 500000,
+    "longitude": 75.9469,
+    "company": {
+      "display_name": "Charu Papers",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSUlhT1pVQ2c4UkdzdDRZZkhHTElMQSIsImkiOiIyNzY3OTg4MzcyIn0.CpT9NkIhsT-VeTK9kendhv6FZdsJeKJqvUoBHhwWVwY",
+    "redirect_url": "https://www.adzuna.in/details/2767988372?utm_medium=api&utm_source=67045292",
+    "salary_max": 800000,
+    "id": "2767988372",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "description": "About YipitData: YipitData is the leading market research and analytics firm for the disruptive economy and recently raised up to $475M from The Carlyle Group at a valuation over $1B. We analyze billions of alternative data points every day to provide accurate, detailed insights on ridesharing, e-commerce marketplaces, payments, and more. Our on-demand insights team uses proprietary technology to identify, license, clean, and analyze the data many of the worlds largest investment funds and corp…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSUlhT1pVQ2c4UkdzdDRZZkhHTElMQSIsImkiOiI1Nzc3MjU2MzQ0In0.JEyN5VJTrtbY0S49dFbMvyO5NlOJBc4uAI9ZkwL5nfg",
+    "title": "Data Specialist",
+    "created": "2026-06-26T10:34:30Z",
+    "latitude": 26.7441,
+    "redirect_url": "https://www.adzuna.in/details/5777256344?utm_medium=api&utm_source=67045292",
+    "salary_is_predicted": "0",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "YipitData"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "display_name": "Jaipur, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "longitude": 75.9469,
+    "category": {
+      "label": "Scientific & QA Jobs",
+      "tag": "scientific-qa-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5777256344"
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Jaipur, Rajasthan",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ]
+    },
+    "title": "Power BI Developer",
+    "created": "2025-08-27T05:48:43Z",
+    "latitude": 26.7441,
+    "contract_time": "full_time",
+    "description": "Key Responsibilities: Design, develop, and maintain interactive dashboards and reports using Power BI and Looker. Write and optimize DAX queries to support complex business logic and calculations. Collaborate with data engineers, analysts, and business stakeholders to understand reporting needs and translate them into technical solutions. Ensure data accuracy, consistency, and performance across BI solutions. Perform data analysis and validation to support business initiatives. Automate and str…",
+    "longitude": 75.9469,
+    "salary_min": 600000,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Resources Valley"
+    },
+    "salary_is_predicted": "0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5369756037?utm_medium=api&utm_source=67045292",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM2OTc1NjAzNyIsInMiOiJJSWFPWlVDZzhSR3N0NFlmSEdMSUxBIn0.pol_YFElcq5lKxoqR_gOPm-xxgM9VtkvOB6OX6KTMX8",
+    "salary_max": 1600000,
+    "id": "5369756037",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Ajmer, Rajasthan",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Ajmer"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Branxl Academy"
+    },
+    "salary_is_predicted": "0",
+    "description": "Career Hub Data Science & Machine Learning Overview Data scientists build statistical models and machine learning systems to extract predictive or descriptive insight from data. In practice the role blends data engineering, statistics, programming, and domain knowledge. Many data scientists in UK companies spend more time on data cleaning, exploration, and stakeholder communication than on model training. A junior data scientist who can deliver reliable analysis and communicate uncertainty clea…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5828954822?utm_medium=api&utm_source=67045292",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyODk1NDgyMiIsInMiOiJJSWFPWlVDZzhSR3N0NFlmSEdMSUxBIn0.vVYEonD8o3XWCIice2kthTyhnXIfFZ4GUTHqQ6VcznI",
+    "created": "2026-08-05T15:58:40Z",
+    "latitude": 26.52495,
+    "title": "Data Science & Machine Learning",
+    "contract_time": "full_time",
+    "id": "5828954822",
+    "longitude": 74.604,
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDY4NjcwMjIwMSIsInMiOiJJSWFPWlVDZzhSR3N0NFlmSEdMSUxBIn0.qJwT5r7qcnmWNIT8et5sikvv236J2MHDxZbl8WmCYcI",
+    "created": "2024-05-10T07:38:31Z",
+    "latitude": 26.7441,
+    "title": "TeleSales Executive",
+    "redirect_url": "https://www.adzuna.in/details/4686702201?utm_medium=api&utm_source=67045292",
+    "description": "1 years of Telesales Experience in Bank, Insurance or health Industry · Experience developing a telesales & strong sales team · Strong analytical skills. Proven ability to review detailed data and create valuable analyst · Working knowledge of medium-large operations in bank, insurance or Medical Telesales · English minimum passive.",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "Sales Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "sales-jobs"
+    },
+    "longitude": 75.9469,
+    "id": "4686702201"
+  },
+  {
+    "description": "Job brief We are looking for a Full Stack Developer to produce scalable software solutions. You’ll be part of a cross-functional team that’s responsible for the full software development life cycle, from conception to deployment. As a Full Stack Developer, you should be comfortable with both front-end and back-end coding languages, development frameworks, and third-party libraries. You should also be a team player with a knack for visual design and utility. If you’re also familiar with Agile me…",
+    "contract_time": "full_time",
+    "latitude": 26.7441,
+    "created": "2021-11-14T04:22:10Z",
+    "title": "Fullstack Developer",
+    "location": {
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "display_name": "Jaipur, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "longitude": 75.9469,
+    "salary_min": 500000,
+    "salary_max": 800000,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSUlhT1pVQ2c4UkdzdDRZZkhHTElMQSIsImkiOiIyNjQxOTg3MDkzIn0.QuvNJ1s5jhH3wcdaVcHQU-WkIgApYQlVeVjU-RnbKtc",
+    "redirect_url": "https://www.adzuna.in/details/2641987093?utm_medium=api&utm_source=67045292",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Memorres Digital Pvt Ltd"
+    },
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "id": "2641987093"
+  },
+  {
+    "longitude": 75.9469,
+    "salary_min": 300000,
+    "location": {
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Jaipur, Rajasthan"
+    },
+    "description": "Job Brief: We are looking for experience in API and Node.js to produce scalable software solutions. You will be part of a cross-functional team that is responsible for the full software development life cycle, from conception to deployment. You should be comfortable around both front-end and back-end coding languages, development frameworks and third-party libraries. You should also be a team player with a knack for visual design and utility. Responsibilities: · Work with development teams and …",
+    "latitude": 26.7441,
+    "title": "Nodejs API Developer",
+    "created": "2023-06-20T17:01:50Z",
+    "contract_time": "full_time",
+    "id": "4160690915",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Celebal Technologies Pvt Ltd"
+    },
+    "salary_is_predicted": "0",
+    "salary_max": 1800000,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/4160690915?utm_medium=api&utm_source=67045292",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSUlhT1pVQ2c4UkdzdDRZZkhHTElMQSIsImkiOiI0MTYwNjkwOTE1In0.K9CHg6apUyPGNe3LKxnLbgCQ5rFdpyV6_rnsjiIPoCU"
+  },
+  {
+    "salary_is_predicted": "0",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Celebal Technologies"
+    },
+    "salary_max": 1500000,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzQzMzIyMTc5OCIsInMiOiJJSWFPWlVDZzhSR3N0NFlmSEdMSUxBIn0.0ILSusv7y-RW2gGKL9wXPkWow_dk_WdWITQozfpCisc",
+    "redirect_url": "https://www.adzuna.in/details/3433221798?utm_medium=api&utm_source=67045292",
+    "id": "3433221798",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ]
+    },
+    "description": "Job Brief: We are looking for a C# .Net Developer with experience in API and Node.js to produce scalable software solutions. You will be part of a cross-functional team that is responsible for the full software development life cycle, from conception to deployment. You should be comfortable around both front-end and back-end coding languages, development frameworks and third-party libraries. You should also be a team player with a knack for visual design and utility. Responsibilities: • Work wi…",
+    "contract_time": "full_time",
+    "created": "2022-08-26T06:41:21Z",
+    "title": ".NET Nodejs Developer",
+    "latitude": 26.7441,
+    "salary_min": 300000,
+    "longitude": 75.9469
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Infomagine Softwares Pvt Ltd"
+    },
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzU3NjE5Njc3OCIsInMiOiJJSWFPWlVDZzhSR3N0NFlmSEdMSUxBIn0.opNtThpE7Yv8sGVn1KQnebezXaeMqOW_EU-j81fCT8c",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/3576196778?utm_medium=api&utm_source=67045292",
+    "salary_max": 1000000,
+    "id": "3576196778",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "display_name": "Jaipur, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "title": "Full Stack Developer",
+    "created": "2022-10-11T07:23:35Z",
+    "latitude": 26.7441,
+    "contract_time": "full_time",
+    "description": "Description We are looking for a Full Stack Developer to produce scalable software solutions. You’ll be part of a cross-functional team that’s responsible for the full software development life cycle, from conception to deployment. As a Full Stack Developer, you should be comfortable with both front-end and back-end coding languages, development frameworks and third-party libraries. You should also be a team player with a knack for visual design and utility. If you’re also familiar with Agile m…",
+    "longitude": 75.9469,
+    "salary_min": 300000
+  },
+  {
+    "id": "5040652548",
+    "longitude": 75.9469,
+    "category": {
+      "label": "Accounting & Finance Jobs",
+      "tag": "accounting-finance-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "display_name": "YipitData",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "description": "About Us: YipitData is the market-leading data and analytics firm. We analyze billions of data points every day to provide accurate, detailed insights across industries, including consumer brands, technology, software, and healthcare. Our insights team uses proprietary technology to identify, license, clean, and analyze the data that many of the worlds largest investment funds and corporations depend on. We raised $475M from The Carlyle Group at a valuation over $1B, further accelerating our gr…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSUlhT1pVQ2c4UkdzdDRZZkhHTElMQSIsImkiOiI1MDQwNjUyNTQ4In0.LMDAkvvMI2AObWDhY-24KokXuQVXHGydfvjwHoTe2Wk",
+    "title": "Data QA Specialist",
+    "created": "2025-02-07T11:21:48Z",
+    "latitude": 26.7441,
+    "redirect_url": "https://www.adzuna.in/details/5040652548?utm_medium=api&utm_source=67045292"
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "contract_type": "permanent",
+    "longitude": 75.9469,
+    "id": "3187994444",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSUlhT1pVQ2c4UkdzdDRZZkhHTElMQSIsImkiOiIzMTg3OTk0NDQ0In0.---7OeJjXFnYZEdyScJz0pOnX4nl2vZSEP-kHaaO2tc",
+    "latitude": 26.7441,
+    "created": "2022-06-01T21:29:10Z",
+    "title": "Senior BI Engineer (Luxembourg)",
+    "redirect_url": "https://www.adzuna.in/details/3187994444?utm_medium=api&utm_source=67045292",
+    "description": "Are you passionate about data? Does the prospect of dealing with massive volumes of data excite you? Do you want to create the next-generation tools for intuitive data access for transportation operations? Amazon Transportation Services (ATS) is a the global middle-mile transportation organization within Amazon - as part of the transportation, we ship several millions of packages every year to customer on time with high customer excellence.Find out more about us in this video: https://www.youtu…",
+    "company": {
+      "display_name": "Amazon",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Jaipur, Rajasthan"
+    }
+  },
+  {
+    "contract_type": "permanent",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "longitude": 75.9469,
+    "id": "3187994588",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzE4Nzk5NDU4OCIsInMiOiJJSWFPWlVDZzhSR3N0NFlmSEdMSUxBIn0.tuZHsiVq-CSPWw_gepK0fs2n54G7PsW04_TjJVExK30",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2022-06-01T21:29:11Z",
+    "latitude": 26.7441,
+    "title": "Senior Business Intelligence Engineer (Luxembourg)",
+    "redirect_url": "https://www.adzuna.in/details/3187994588?utm_medium=api&utm_source=67045292",
+    "description": "Are you passionate about data? Does the prospect of dealing with massive volumes of data excite you? Do you want to create the next-generation tools for intuitive data access for transportation operations? Amazon Transportation Services (ATS) is a the global middle-mile transportation organization within Amazon - as part of the transportation, we ship several millions of packages every year to customer on time with high customer excellence. Find our more about us in this video: https://www.yout…",
+    "salary_is_predicted": "0",
+    "company": {
+      "display_name": "Amazon",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "display_name": "Jaipur, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    }
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Amazon"
+    },
+    "salary_is_predicted": "0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Jaipur, Rajasthan",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ]
+    },
+    "description": "Are you passionate about leveraging data to deliver actionable insight that impacts daily business decisions for Amazon? Does the prospect of dealing with massive volume of data excite you? Amazon Fulfillment Technologies (AFT) powers the physical engine at the heart of Amazon Retail. AFT builds and operates software, hardware, and processes that run the global network of fulfillment centers that move many millions of units of inventory, employ hundreds of thousands of employees, and ensure tha…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2022-06-01T21:29:10Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzE4Nzk5NDQzNyIsInMiOiJJSWFPWlVDZzhSR3N0NFlmSEdMSUxBIn0.g3ms_VwxMqML__WrB4zJzfvCDPudx-qG3VsfEGi3v3M",
+    "latitude": 26.7441,
+    "title": "Business Intelligence Engineer (Luxembourg)",
+    "redirect_url": "https://www.adzuna.in/details/3187994437?utm_medium=api&utm_source=67045292",
+    "id": "3187994437",
+    "longitude": 75.9469,
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "contract_type": "permanent"
+  },
+  {
+    "salary_is_predicted": "0",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Amazon"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "display_name": "Jaipur, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSUlhT1pVQ2c4UkdzdDRZZkhHTElMQSIsImkiOiIzMTg3OTk0NDIxIn0.stjgSydNElIdsnb886h787SPLayqb6JKtXzDBAr2yrg",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 26.7441,
+    "created": "2022-06-01T21:29:10Z",
+    "redirect_url": "https://www.adzuna.in/details/3187994421?utm_medium=api&utm_source=67045292",
+    "title": "Data Scientist (Luxembourg)",
+    "description": "Are you a talented and inventive scientist with a strong passion about modern data technologies and interested to improve business processes, extracting value from the data? Would you like to be a part of an organization that is aiming to use self-learning technology to process data in order to support the management of the procurement function? The Global Procurement Technology, as a part of Global Procurement Operations, is seeking a skilled Data Scientist to help build its future data intell…",
+    "id": "3187994421",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "contract_type": "permanent",
+    "longitude": 75.9469
+  },
+  {
+    "longitude": 75.9469,
+    "contract_time": "full_time",
+    "description": "Job Title: Senior Sales Executive / Business Development Executive – IT Services  Location: Jaipur, Rajasthan – On-site  Experience: 5 Years (Relevant IT Sales / BDE Experience Mandatory)  Employment Type: Full-Time Important ❌ Do not apply if you are looking for a WFH or Hybrid opportunity. ❌ 5 years of relevant experience in IT Sales / Business Development is mandatory. ❌ Candidates without hands-on experience in selling IT services/software solutions will not be considered. About the Role We…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Egnoto"
+    },
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "sales-jobs",
+      "label": "Sales Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "latitude": 26.7441,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzODY3NTg1MyIsInMiOiIya3g5YVVDZzhSR294cE4zMVZwN2tBIn0.18PMpv1BRNICdYu_hkXEKVGubo7ydwfiVa5y_L6GZVk",
+    "created": "2026-08-13T00:15:55Z",
+    "redirect_url": "https://www.adzuna.in/land/ad/5838675853?se=2kx9aUCg8RGoxpN31Vp7kA&utm_medium=api&utm_source=67045292&v=F373162EBD41AC5E781A9A4EA62CBB7E4F878951",
+    "title": "Senior Sales Executive",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5838675853"
+  },
+  {
+    "title": "Business Analyst",
+    "id": "4855312747",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2024-09-07T10:59:13Z",
+    "latitude": 26.7441,
+    "salary_min": 200000,
+    "salary_max": 400000,
+    "company": {
+      "display_name": "Litpix Studio Private Limited",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "About the Role: We are seeking a skilled Business Analyst to join our IT team. As a Business Analyst, you will be responsible for bridging the gap between business needs and technology solutions. You will work closely with stakeholders, developers, and project managers to ensure that requirements are gathered, analyzed, and implemented in alignment with the company’s business objectives. This role demands strong analytical, problem-solving, and communication skills, along with a solid understan…",
+    "redirect_url": "https://www.adzuna.in/details/4855312747?utm_medium=api&utm_source=67045292",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg1NTMxMjc0NyIsInMiOiIya3g5YVVDZzhSR294cE4zMVZwN2tBIn0.cOePARk3RofWdtIKG8OQXk250o5MhhAJGhbnWwg2FJs",
+    "contract_time": "full_time",
+    "longitude": 75.9469,
+    "salary_is_predicted": "0"
+  },
+  {
+    "longitude": 75.9469,
+    "description": "Business Analyst (International Sales) About Decipher Zone Technologies Decipher Zone Technologies is a leading software development and IT consulting company delivering innovative digital solutions to clients worldwide. We specialize in Web & Mobile App Development, AI/ML, Cloud Solutions, DevOps, UI/UX Design, Enterprise Software, and Custom Software Development. With a commitment to innovation, quality, and customer satisfaction, we help businesses transform ideas into scalable technology so…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Decipher Zone Technologies"
+    },
+    "salary_is_predicted": "0",
+    "title": "Business Analyst",
+    "redirect_url": "https://www.adzuna.in/details/5827168805?utm_medium=api&utm_source=67045292",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5827168805",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ]
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "sales-jobs",
+      "label": "Sales Jobs"
+    },
+    "latitude": 26.7441,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMmt4OWFVQ2c4UkdveHBOMzFWcDdrQSIsImkiOiI1ODI3MTY4ODA1In0.hXUadovta3QKMt6knMOTiyeanP8KHZLZX4pyAWN5r5I",
+    "created": "2026-08-04T06:38:35Z"
+  },
+  {
+    "salary_is_predicted": "0",
+    "contract_time": "full_time",
+    "longitude": 75.9469,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "display_name": "Jaipur, Rajasthan"
+    },
+    "redirect_url": "https://www.adzuna.in/details/3632177861?utm_medium=api&utm_source=67045292",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMmt4OWFVQ2c4UkdveHBOMzFWcDdrQSIsImkiOiIzNjMyMTc3ODYxIn0.kGWZJGOR9GoKsdnCQn0slxeihY-ZGE8XOlZMk5WoJyk",
+    "salary_min": 400000,
+    "description": "Exp: 4 years; Business Analyst Year Skills Required Knowledge in Freelancer, Odesk, Guru & Elance portals. The candidate should be excellent in online Bidding. Generating Business from online Bidding Portals, Proposal writing, Follow ups. Responsible for communicating with the clients through Cold Calls and portal chats. Preparing Business Engagement Documents SOW, SRS, RFP/RFQ, Etc. Understanding Of Web & Mobile Development Concepts & Terminology. Good Communication skills. Must be fluent in E…",
+    "company": {
+      "display_name": "White Collar Org",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 1200000,
+    "id": "3632177861",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Business Analyst",
+    "latitude": 26.7441,
+    "created": "2022-10-28T05:57:34Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    }
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5848055985",
+    "title": "Business Analyst",
+    "created": "2026-08-19T16:03:45Z",
+    "latitude": 26.7441,
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_min": 1000000,
+    "company": {
+      "display_name": "Resources Valley",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Role Overview We are looking for a proactive and detail-oriented Business Analyst with strong communication and analytical skills to support requirement gathering, client coordination, and project execution activities. The ideal candidate should possess good aptitude, structured thinking, and the ability to work closely with cross-functional teams in a fast-paced delivery environment. Key Responsibilities ●Gather, analyze, and document business and functional requirements ●Coordinate with clien…",
+    "salary_max": 1800000,
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.in/details/5848055985?utm_medium=api&utm_source=67045292",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMmt4OWFVQ2c4UkdveHBOMzFWcDdrQSIsImkiOiI1ODQ4MDU1OTg1In0.dfydWGKEUqZoO6SISVNLfOjXQkuK_MTyliUucDbgaig",
+    "salary_is_predicted": "0",
+    "contract_time": "full_time",
+    "longitude": 75.9469
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/2196097763?utm_medium=api&utm_source=67045292",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "display_name": "Jaipur, Rajasthan"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjE5NjA5Nzc2MyIsInMiOiIya3g5YVVDZzhSR294cE4zMVZwN2tBIn0.5zuOsfgLAk5oHzvhTRXV3ud7d0lNpN8srp3iRauWBy4",
+    "longitude": 75.9469,
+    "contract_time": "full_time",
+    "salary_is_predicted": "0",
+    "title": "Business Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "2196097763",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "latitude": 26.7441,
+    "created": "2021-05-19T16:09:17Z",
+    "salary_min": 500000,
+    "salary_max": 2000000,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Matellio Inc"
+    },
+    "description": "Responsibilities: • Should have experience in Pre-Sales, Business Communication and Technical Documentation. • Should have exposure to International and Digital Techno-sales. • Writing Proposal / Costing / Negotiations / prepare project schedules, review and check procedures and documentation. • Execute in an intense, fast-paced, and highly iterative environment • Work with Global Teams to Optimise the Customer Relationship Assisting in Winning New Sales Projects • Create unique and effective s…"
+  },
+  {
+    "title": "Business Analyst",
+    "id": 2128686938,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "label": "Sales Jobs",
+      "tag": "sales-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "latitude": 26.3379,
+    "created": "2021-04-20T14:20:25Z",
+    "salary_min": 0,
+    "salary_max": 400000,
+    "description": "lead generation and prospect management. Understanding client needs and offering solutions and support; answering potential client questions and follow-up call questions; responding to client requests for proposals (RFPs) Creating informative presentations; presenting and delivering information to potential clients at client meetings, industry exhibits, trade shows, and conferences Creating and maintaining a list/database of prospect clients; maintaining a database (Salesforce, CRM, Excel, etc.…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Adiyogi Technosoft Pvt Ltd"
+    },
+    "redirect_url": "https://www.adzuna.in/details/2128686938?utm_medium=api&utm_source=67045292",
+    "location": {
+      "display_name": "Jodhpur, Rajasthan",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jodhpur"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMmt4OWFVQ2c4UkdveHBOMzFWcDdrQSIsImkiOjIxMjg2ODY5Mzh9.5DjWklLPE9kAqrjmxC2Ftz6uHpGED-Me-OMjxg_USV4",
+    "longitude": 73.0305,
+    "contract_time": "full_time",
+    "salary_is_predicted": "0"
+  },
+  {
+    "salary_min": 0,
+    "salary_max": 500000,
+    "description": "Develop a growth strategy focused both on financial gain and customer satisfaction Conduct research to identify new markets and customer needs Arrange business meetings with prospective clients Promote the company’s products/services addressing or predicting clients’ objectives Prepare sales contracts ensuring adherence to law-established rules and guidelines Keep records of sales, revenue, invoices etc. Provide trustworthy feedback and after-sales support Build long-term relationships with new…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Variable Soft"
+    },
+    "title": "Business Analyst",
+    "id": 2072199033,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "sales-jobs",
+      "label": "Sales Jobs"
+    },
+    "latitude": 26.7441,
+    "created": "2021-03-24T04:31:45Z",
+    "contract_time": "full_time",
+    "longitude": 75.9469,
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/2072199033?utm_medium=api&utm_source=67045292",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoyMDcyMTk5MDMzLCJzIjoiMmt4OWFVQ2c4UkdveHBOMzFWcDdrQSJ9.auTzygFV-Prw-0O1f3ZQby7ruJEZWOEdp9jOe6NYgc0"
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "latitude": 26.7441,
+    "created": "2021-10-02T04:35:08Z",
+    "title": "Business Analyst",
+    "id": "2509164414",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 200000,
+    "company": {
+      "display_name": "Perdect",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Job Responsibilities:- E-bidding on Upwork and Freelancers, client communication, project finalizing and final delivery. Communication between the Client and the Technical teams. Generating Revenue & projects and closing deals with International Clients. Assists in enforcement of project deadlines and schedules. Quickly understands the business issues and data challenges of client’s organization and industry. Creating documents like BRS /SRS and project Cost Estimation Identifies client organiz…",
+    "salary_min": 0,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMmt4OWFVQ2c4UkdveHBOMzFWcDdrQSIsImkiOiIyNTA5MTY0NDE0In0.ZPLVws98JXvsYPcOIphnr7Fp3tZNhMxiQeSMxsjB_nw",
+    "redirect_url": "https://www.adzuna.in/details/2509164414?utm_medium=api&utm_source=67045292",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "contract_time": "full_time",
+    "longitude": 75.9469,
+    "salary_is_predicted": "0"
+  },
+  {
+    "salary_max": 600000,
+    "description": "Skills Required: Candidate should be able to generate business through online portal likes Upwork, Freelancer, People Per Hour and etc. Candidate Should be able to Understand client's requirements. Excellent written and spoken communication skills. Candidates must have knowledge about IT services. Candidates should be able to write creative proposals. Should be Professional and excellent at time management. Responsible to prepare use cases, Business Requirements Documents(BRD), System Requireme…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Biz4group"
+    },
+    "salary_min": 200000,
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2019-11-26T08:43:43Z",
+    "latitude": 26.7441,
+    "title": "Business Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": 1352025256,
+    "contract_time": "full_time",
+    "longitude": 75.9469,
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMmt4OWFVQ2c4UkdveHBOMzFWcDdrQSIsImkiOjEzNTIwMjUyNTZ9.ZsCZI8TncRF-wWB1LnHiU-QaM_xh1-f2sSWvx9UjFDs",
+    "redirect_url": "https://www.adzuna.in/details/1352025256?utm_medium=api&utm_source=67045292",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "display_name": "Jaipur, Rajasthan"
+    }
+  },
+  {
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "redirect_url": "https://www.adzuna.in/details/1161627517?utm_medium=api&utm_source=67045292",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMmt4OWFVQ2c4UkdveHBOMzFWcDdrQSIsImkiOjExNjE2Mjc1MTd9.myhpdKSWHtADeL_78iAMh93GYEquAr26d8NZLi-HfMc",
+    "salary_is_predicted": "0",
+    "longitude": 75.9469,
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": 1161627517,
+    "title": "business analyst",
+    "created": "2019-05-24T21:25:36Z",
+    "latitude": 26.7441,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_min": 200000,
+    "description": "Technoloader is a blockchain development company which provides a wide array of services based on blockchain such as blockchain development, supply chain development, blockchain POC development, blockchain IOT development, blockchain game development, smart contract development, blockchain consulting services, private blockchain development, cryptocurrency wallet development and hyperledger blockchain development. Skills: Business Analysis, Documentation and Software Requirements Specification …",
+    "company": {
+      "display_name": "Technoloader",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 900000
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyMzkyNjA5OCIsInMiOiIya3g5YVVDZzhSR294cE4zMVZwN2tBIn0.6fQVm2jOJkPPfhb_vIMCA7Qi-VwJ1FreDTCW-WV52Ow",
+    "redirect_url": "https://www.adzuna.in/details/5723926098?utm_medium=api&utm_source=67045292",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "longitude": 75.9469,
+    "contract_time": "full_time",
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2026-05-09T12:15:06Z",
+    "latitude": 26.7441,
+    "title": "Business analyst",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5723926098",
+    "contract_type": "permanent",
+    "salary_max": 500000,
+    "description": "Job Title: Pre-Sales Consultant Department: Sales Location: Jaipur, Rajasthan (Full-time, in-office with demo travel) Employment Type: Full-Time, Permanent Experience Required: 2–4 Years Open Positions: 1 Role Summary We are looking for a skilled Pre-Sales Consultant to support our growing sales pipeline by delivering impactful product demonstrations and handling technical engagements. The candidate will play a critical role in driving technical wins during the sales cycle, with deep expertise …",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Pericent BPMDMS software"
+    },
+    "salary_min": 300000
+  },
+  {
+    "longitude": 75.9469,
+    "contract_time": "full_time",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5434759664?utm_medium=api&utm_source=67045292",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMmt4OWFVQ2c4UkdveHBOMzFWcDdrQSIsImkiOiI1NDM0NzU5NjY0In0.3BbUO11NnTGxRTUoVcj3X37laeToCLBbFz9M4W_hrZ4",
+    "salary_min": 1000000,
+    "salary_max": 1400000,
+    "company": {
+      "display_name": "Talentvibes Solutions",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Senior Business Analyst Job Summary We are seeking an experienced Senior Business Analyst to lead business analysis activities, collaborate with senior management, and contribute to strategic initiatives that align with the organization's goals. The Senior Business Analyst will play a key role in driving business process improvements, optimizing efficiency, and ensuring the successful execution of projects. The role involves working with cross-functional teams, providing leadership and mentorsh…",
+    "title": "Senior Business Analyst",
+    "id": "5434759664",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "created": "2025-10-07T06:43:38Z",
+    "latitude": 26.7441
+  },
+  {
+    "salary_min": 100000,
+    "salary_max": 400000,
+    "company": {
+      "display_name": "Dev Technosys",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Publishing documentation in the format required for project delivery. • Communication between the Client and the Technical teams. • Writing case studies and blogs for the projects and websites developed. • Generating Revenue & projects and closing deals with International Clients. • Assists in enforcement of project deadlines and schedules. • Quickly understands the business issues and data challenges of client’s organization and industry. • Creating documents like BRS /SRS and project Cost Est…",
+    "title": "Business Analyst (Post Sales)",
+    "id": "3162281480",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "created": "2022-05-24T05:33:08Z",
+    "latitude": 26.7441,
+    "contract_time": "full_time",
+    "longitude": 75.9469,
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/3162281480?utm_medium=api&utm_source=67045292",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzE2MjI4MTQ4MCIsInMiOiIya3g5YVVDZzhSR294cE4zMVZwN2tBIn0.EmsYOeNEzVvAKI8SrqdJsVWvaJ9e5eHn2KoIC8DByMY"
+  },
+  {
+    "contract_time": "full_time",
+    "longitude": 75.7048,
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5839165357?utm_medium=api&utm_source=67045292",
+    "location": {
+      "display_name": "Sanganer, Jaipur",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur",
+        "Sanganer"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzOTE2NTM1NyIsInMiOiIya3g5YVVDZzhSR294cE4zMVZwN2tBIn0.imFYBPUHLFT2jfF0KVY_Qs0bdYdObDFV0204o1qjJyA",
+    "salary_min": 216000,
+    "salary_max": 360000,
+    "description": "Job Type Location: Mansarovar, Jaipur Work Mode: Work From Office(full time) Working Days: 5 Days a Week Freshers Need Not Apply (Minimum 1 Year Experience Required) About the Role, Experienced Project Manager with strong post-sales ownership, managing Web Development, SEO, and UI/UX projects across multiple clients. Adept at understanding client business goals, translating requirements into clear execution plans, coordinating with cross-functional teams, and ensuring on-time, high-quality deli…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "ViralChilly"
+    },
+    "title": "Business Analyst post sales (IT Sector)",
+    "id": "5839165357",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2026-08-13T06:58:16Z",
+    "latitude": 26.8606
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/2210350401?utm_medium=api&utm_source=67045292",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMmt4OWFVQ2c4UkdveHBOMzFWcDdrQSIsImkiOiIyMjEwMzUwNDAxIn0.v3bD-lkhIN9E3PF-65LRlkG6CLkvR8imuA2nUljb6hU",
+    "contract_time": "full_time",
+    "longitude": 75.9469,
+    "salary_is_predicted": "0",
+    "title": "Senior Data Analyst - Business Insights",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "2210350401",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "created": "2021-05-26T12:51:52Z",
+    "latitude": 26.7441,
+    "salary_min": 650000,
+    "salary_max": 1600000,
+    "company": {
+      "display_name": "YourHRfolks",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "About Us Punchh is the leader in customer loyalty, offer management, and AI solutions for offline and omni-channel merchants including restaurants, convenience stores, and retailers. Punchh brings the power of online to physical brands by delivering omni-channel experiences and personalization across the entire customer journeyfrom acquisition through loyalty and growthto drive same store sales and customer lifetime value. Punchh uses best-in-class integrations to POS and other in-store systems…"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMmt4OWFVQ2c4UkdveHBOMzFWcDdrQSIsImkiOiI1MTAxODI2ODQyIn0.Q2k5xzyEsFFKF4kCn_zhnitWEicWNw1Ft_4r702BpPc",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.in/details/5101826842?utm_medium=api&utm_source=67045292",
+    "salary_is_predicted": "0",
+    "longitude": 75.9469,
+    "contract_time": "full_time",
+    "latitude": 26.7441,
+    "created": "2025-03-20T04:31:57Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "id": "5101826842",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "dotNet Developer",
+    "description": "Hiring php dot net business analyst android react js Limited vacancy available Dot net MVC (c#) - 3 candidates PHP (Core) - 2 candidates React JS - 2 candidates Android - 2 Experienced in .Dot net mvc( c#) - 6 month - 2 year Experienced in React JS - 6 month - 2year Experienced in PHP - 6 month - 1 year Experienced in Business Analyst - 6 month - 1 year Experienced in Android - 6 month - 1 year Job Location: Jaipur Job Time: Full Time Salary: No bar for good candidate Preferred- Immediate Joine…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Variable Soft"
+    },
+    "salary_max": 800000,
+    "salary_min": 300000
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Chipn"
+    },
+    "description": "Collaborate with other software developers, business analysts and software architects to plan, design, develop, test, and maintain web and mobile-based business applications. Guide team development efforts towards successful project delivery. Identify and encourage areas for growth and improvement within the team. Provide third-level support to business users. Research and evaluate a variety of software products. Analyze and resolve technical and application problems. Develop, refine, and tune …",
+    "salary_max": 1000000,
+    "salary_min": 500000,
+    "created": "2022-06-04T06:15:54Z",
+    "latitude": 26.7441,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "3196832073",
+    "title": "Full Stack Engineer",
+    "salary_is_predicted": "0",
+    "contract_time": "full_time",
+    "longitude": 75.9469,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzE5NjgzMjA3MyIsInMiOiIya3g5YVVDZzhSR294cE4zMVZwN2tBIn0.WNWX_UxQjfzr8phdX-lfU4ZK3wbI2qwP2ufrHJ0KWCQ",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.in/details/3196832073?utm_medium=api&utm_source=67045292"
+  },
+  {
+    "salary_min": 200000,
+    "company": {
+      "display_name": "Cardekho Group",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Additional Roles & Responsibilities 1. Designing and executing test cases and test plans to identify defects and improve product quality. 2. Collaborating with software developers, project managers, and other stakeholders to identify and address issues and improve the overall product quality. 3. Conducting automated and manual testing to validate functionality and ensure that software meets customer requirements and specifications. 4. Analyzing and interpreting test results to identify trends a…",
+    "salary_max": 500000,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "4145143238",
+    "title": "QA Analyst",
+    "latitude": 26.7441,
+    "created": "2023-06-10T16:45:30Z",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_is_predicted": "0",
+    "contract_time": "full_time",
+    "longitude": 75.9469,
+    "location": {
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Jaipur, Rajasthan"
+    },
+    "redirect_url": "https://www.adzuna.in/details/4145143238?utm_medium=api&utm_source=67045292",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMmt4OWFVQ2c4UkdveHBOMzFWcDdrQSIsImkiOiI0MTQ1MTQzMjM4In0.VBseqoKMtOpDv_dqzcTr2Hrc9r5pPctdbEPcyuHFxGs"
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "latitude": 26.7441,
+    "created": "2021-09-29T06:18:47Z",
+    "title": "Java Developer",
+    "id": "2500529379",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 1000000,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Sarvika Technologies"
+    },
+    "description": "As an Application Developer, you will participate in product development sessions with business owners, business analysts and team members to analyse business requirements and proposed solutions. A highly motivated and enthusiastic to join our Core Technology team and make a difference. Must-Have Skills: • Candidate should have basic experience in Core Java and Advance Java design patterns • Candidate should have basic experience in Advance Java frameworks – Spring, Hibernate, JSP, Servlet. • G…",
+    "salary_min": 0,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMmt4OWFVQ2c4UkdveHBOMzFWcDdrQSIsImkiOiIyNTAwNTI5Mzc5In0.NRcof4ajiK6L7kvymztpCeZaYFekzoSG2C5dfPA6DZ8",
+    "redirect_url": "https://www.adzuna.in/details/2500529379?utm_medium=api&utm_source=67045292",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ]
+    },
+    "longitude": 75.9469,
+    "contract_time": "full_time",
+    "salary_is_predicted": "0"
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "display_name": "Jaipur, Rajasthan"
+    },
+    "redirect_url": "https://www.adzuna.in/details/2850994544?utm_medium=api&utm_source=67045292",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjg1MDk5NDU0NCIsInMiOiIya3g5YVVDZzhSR294cE4zMVZwN2tBIn0.obD50Ufo-b6_OMUrxTxIXjz0npUgLv2FlVjDNBpCzf8",
+    "salary_is_predicted": "0",
+    "longitude": 75.9469,
+    "contract_time": "full_time",
+    "id": "2850994544",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Software Engineer : Node js",
+    "latitude": 26.7441,
+    "created": "2022-01-29T04:33:05Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_min": 200000,
+    "description": "We are looking for an experienced top-notch Software Engineer to grow with our development team. As a Node.js engineer, you will be involved from conception to completion with projects that are technologically sound and impactful. What you will do: Work on existing software solutions or new systems on the specified programming language. Translating designs and wireframes into high-quality code. Ensure the best possible performance, quality of the solution you are working on. Working closely wit…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Synoriq"
+    },
+    "salary_max": 850000
+  },
+  {
+    "salary_min": 400000,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Celebal Technologies Pvt Ltd"
+    },
+    "description": "Role – Dynamics 365 Experience – 3 years & above Location – Remote, Jaipur , Gurgaon, Noida Job Description: · Gather requirements from the client · Proactively builds and manages relationship with client management · Developing business cases, project plans and project documentation. · Deliver projects/work on-time, on-budget, and in a way that accomplishes client goals · Reviews and ensures high quality of work is delivered · Meets deadlines and manages competing priorities under pressure · A…",
+    "salary_max": 1500000,
+    "id": "4022970610",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Dynamics 365 Developer",
+    "created": "2023-04-06T10:27:30Z",
+    "latitude": 26.7441,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "0",
+    "longitude": 75.9469,
+    "contract_time": "full_time",
+    "location": {
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Jaipur, Rajasthan"
+    },
+    "redirect_url": "https://www.adzuna.in/details/4022970610?utm_medium=api&utm_source=67045292",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMmt4OWFVQ2c4UkdveHBOMzFWcDdrQSIsImkiOiI0MDIyOTcwNjEwIn0.L7wvj3CMqz8ZmAlsW9Bcd-1OfiPq4DrHoo0Aws4Sz6A"
+  },
+  {
+    "longitude": 74.818,
+    "salary_is_predicted": "0",
+    "description": "Role Overview We are seeking a hands-on Senior Salesforce Developer to independently design, build, test, troubleshoot, and deploy scalable Salesforce solutions. The ideal candidate will understand business requirements, recommend appropriate technical approaches, and take ownership of features from development through production support. Experience Typically 5 to 8 years of overall experience. At least 4 years of hands-on Salesforce development experience. Experience working on Salesforce impl…",
+    "company": {
+      "display_name": "Talentvibes solutions",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "Senior Salesforce Developer",
+    "redirect_url": "https://www.adzuna.in/details/5807996111?utm_medium=api&utm_source=67045292",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5807996111",
+    "location": {
+      "area": [
+        "India",
+        "Rajasthan"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Rajasthan, India"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNzk5NjExMSIsInMiOiIya3g5YVVDZzhSR294cE4zMVZwN2tBIn0.EtP0s-OO47CIDZFASJjT0_1cdLaJX1Hs7ePUKj8L2ME",
+    "created": "2026-07-20T15:59:36Z",
+    "latitude": 26.22124
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMmt4OWFVQ2c4UkdveHBOMzFWcDdrQSIsImkiOiIzMTg3OTk0NDQ0In0.MUleGXG1SgxH645JoLaKjTdT_6VNLOgw19HyLOLnO5g",
+    "created": "2022-06-01T21:29:10Z",
+    "latitude": 26.7441,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "id": "3187994444",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "title": "Senior BI Engineer (Luxembourg)",
+    "redirect_url": "https://www.adzuna.in/details/3187994444?utm_medium=api&utm_source=67045292",
+    "description": "Are you passionate about data? Does the prospect of dealing with massive volumes of data excite you? Do you want to create the next-generation tools for intuitive data access for transportation operations? Amazon Transportation Services (ATS) is a the global middle-mile transportation organization within Amazon - as part of the transportation, we ship several millions of packages every year to customer on time with high customer excellence.Find out more about us in this video: https://www.youtu…",
+    "company": {
+      "display_name": "Amazon",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "0",
+    "longitude": 75.9469,
+    "contract_type": "permanent"
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "latitude": 26.7441,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMmt4OWFVQ2c4UkdveHBOMzFWcDdrQSIsImkiOiI1NzI0ODczNTUxIn0.kNHkcZtnXKmFbTK6nlOrUUeBethpKeVXlOvsZuosBBY",
+    "created": "2026-05-10T09:58:24Z",
+    "title": "Senior Salesforce QA Engineer",
+    "redirect_url": "https://www.adzuna.in/details/5724873551?utm_medium=api&utm_source=67045292",
+    "id": "5724873551",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "longitude": 75.9469,
+    "description": "Remote Jaipur India Noida India Chennai India Pune India Bangalore India - Outer Ring Road Full time JR-0015170 Huron is a global consultancy that collaborates with clients to drive strategic growth, ignite innovation and navigate constant change. Through a combination of strategy, expertise and creativity, we help clients accelerate operational, digital and cultural transformation, enabling the change they need to own their future. Join our team as the expert you are now and create your future…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Huron Consulting Group"
+    },
+    "salary_is_predicted": "0"
+  },
+  {
+    "created": "2026-07-20T10:45:16Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMmt4OWFVQ2c4UkdveHBOMzFWcDdrQSIsImkiOiI1ODA3ODczODk4In0.Bhg2wrU8lxPnPsBvp6KuURQbS1sQ5ZwFKl6GcnoBhV8",
+    "latitude": 26.7441,
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "display_name": "Jaipur, Rajasthan"
+    },
+    "id": "5807873898",
+    "title": "Salesforce QA Lead",
+    "redirect_url": "https://www.adzuna.in/details/5807873898?utm_medium=api&utm_source=67045292",
+    "description": "Hybrid Jaipur India Noida India Chennai India Pune India Bangalore India - Outer Ring Road Full time JR-0015916 Huron is a global consultancy that collaborates with clients to drive strategic growth, ignite innovation and navigate constant change. Through a combination of strategy, expertise and creativity, we help clients accelerate operational, digital and cultural transformation, enabling the change they need to own their future. Join our team as the expert you are now and create your future…",
+    "company": {
+      "display_name": "Huron Consulting Group",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "0",
+    "longitude": 75.9469
+  },
+  {
+    "contract_type": "permanent",
+    "longitude": 75.9469,
+    "salary_is_predicted": "0",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Amazon"
+    },
+    "description": "Are you passionate about data? Does the prospect of dealing with massive volumes of data excite you? Do you want to create the next-generation tools for intuitive data access for transportation operations? Amazon Transportation Services (ATS) is a the global middle-mile transportation organization within Amazon - as part of the transportation, we ship several millions of packages every year to customer on time with high customer excellence. Find our more about us in this video: https://www.yout…",
+    "redirect_url": "https://www.adzuna.in/details/3187994588?utm_medium=api&utm_source=67045292",
+    "title": "Senior Business Intelligence Engineer (Luxembourg)",
+    "id": "3187994588",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2022-06-01T21:29:11Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzE4Nzk5NDU4OCIsInMiOiIya3g5YVVDZzhSR294cE4zMVZwN2tBIn0.9C1RFAVbyo9w3gcGI7Ohy_Ah3iE5uHXWiYZ2_hfvScE",
+    "latitude": 26.7441
+  },
+  {
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "latitude": 26.7441,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMmt4OWFVQ2c4UkdveHBOMzFWcDdrQSIsImkiOiIzMTg3OTk0NDM3In0.lJSZwpPkF4IC-u2kLmDScuQn5JC3dgPb6vkh0IGW7WY",
+    "created": "2022-06-01T21:29:10Z",
+    "title": "Business Intelligence Engineer (Luxembourg)",
+    "redirect_url": "https://www.adzuna.in/details/3187994437?utm_medium=api&utm_source=67045292",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "3187994437",
+    "longitude": 75.9469,
+    "contract_type": "permanent",
+    "company": {
+      "display_name": "Amazon",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Are you passionate about leveraging data to deliver actionable insight that impacts daily business decisions for Amazon? Does the prospect of dealing with massive volume of data excite you? Amazon Fulfillment Technologies (AFT) powers the physical engine at the heart of Amazon Retail. AFT builds and operates software, hardware, and processes that run the global network of fulfillment centers that move many millions of units of inventory, employ hundreds of thousands of employees, and ensure tha…",
+    "salary_is_predicted": "0"
+  },
+  {
+    "description": "Description 11101 Business Development, Portfolio Performance Analysis, Portfolio Modeling, Portfolio Management and Business Analytics, Financial Analyst, Wealth Management • Address HNI clients for investment requirements, through exclusive product bouquet and superior and seamless service delivery to assist client in achieving his short term and long term investment goals via proper profiling and offering of Debt products, Structures, Equities, MFs and Fund based Real Estate products and oth…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Tata Capital"
+    },
+    "salary_is_predicted": "0",
+    "longitude": 75.9469,
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwMTYzNDM3NCIsInMiOiIya3g5YVVDZzhSR294cE4zMVZwN2tBIn0.DVhtwqt1loIqgtha4NYRPuW4VWeVWvDUgDTDOlVUnxQ",
+    "created": "2024-07-31T03:20:09Z",
+    "latitude": 26.7441,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "accounting-finance-jobs",
+      "label": "Accounting & Finance Jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "4801634374",
+    "location": {
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Jaipur, Rajasthan"
+    },
+    "redirect_url": "https://www.adzuna.in/details/4801634374?utm_medium=api&utm_source=67045292",
+    "title": "Sr.Relationship Manager - Wealth - Jaipur - Golden Leaf - MM"
+  },
+  {
+    "longitude": 75.9469,
+    "contract_time": "full_time",
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM2OTc1NjAzNyIsInMiOiIya3g5YVVDZzhSR294cE4zMVZwN2tBIn0._Cg3W4Nx6bWvDeY1GKvqAznHKGxgzWQdEPZnRyak0YA",
+    "redirect_url": "https://www.adzuna.in/details/5369756037?utm_medium=api&utm_source=67045292",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ]
+    },
+    "salary_max": 1600000,
+    "description": "Key Responsibilities: Design, develop, and maintain interactive dashboards and reports using Power BI and Looker. Write and optimize DAX queries to support complex business logic and calculations. Collaborate with data engineers, analysts, and business stakeholders to understand reporting needs and translate them into technical solutions. Ensure data accuracy, consistency, and performance across BI solutions. Perform data analysis and validation to support business initiatives. Automate and str…",
+    "company": {
+      "display_name": "Resources Valley",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_min": 600000,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "latitude": 26.7441,
+    "created": "2025-08-27T05:48:43Z",
+    "title": "Power BI Developer",
+    "id": "5369756037",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "id": "5808698648",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "title": "Software Engineering Consultant Jaipur",
+    "redirect_url": "https://www.adzuna.in/details/5808698648?utm_medium=api&utm_source=67045292",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMmt4OWFVQ2c4UkdveHBOMzFWcDdrQSIsImkiOiI1ODA4Njk4NjQ4In0.wKRkW3T72_9bwalwfTvoqqPksxW4DRLwFtmdRNaiVMY",
+    "latitude": 26.7441,
+    "created": "2026-07-21T06:40:25Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "salary_is_predicted": "0",
+    "description": "5 YRS 410 Please send 5 only and diverse exp profiles Immediate Joiners only Role Overview The Senior ServiceNow Developer TSM OMT is responsible for designing developing implementing and supporting telecomspecific solutions on the ServiceNow platform This role requires deep technical expertise in ServiceNow solid domain knowledge of telecommunications workflows and leadership in guiding endtoend implementations Key Responsibilities Solution Design Development Configure and customize ServiceNow…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Freedom Consulting"
+    },
+    "longitude": 75.9469
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "2767988372",
+    "title": "PHP Developer",
+    "latitude": 26.7441,
+    "created": "2021-12-26T04:19:48Z",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_min": 500000,
+    "company": {
+      "display_name": "Charu Papers",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Good knowledge of SQL and related databases, with a preference for those with MySQL experience. Excellent knowledge of the basic PHP 7 or web server exploits along with their solutions. Experience building or maintaining a CMS. Knowledge of MVC frameworks. A detailed understanding of database design and administration. Proficiency when it comes to code versioning tools. The ability to integrate a variety of data sources and databases into a single system. Proficiency when it comes to code versi…",
+    "salary_max": 800000,
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "redirect_url": "https://www.adzuna.in/details/2767988372?utm_medium=api&utm_source=67045292",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMmt4OWFVQ2c4UkdveHBOMzFWcDdrQSIsImkiOiIyNzY3OTg4MzcyIn0.R3RP0mjDy3LZ21vJ2bhtgPcUTg7hSuDD5rVoeHLou_I",
+    "salary_is_predicted": "0",
+    "contract_time": "full_time",
+    "longitude": 75.9469
+  },
+  {
+    "salary_is_predicted": "0",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "TP"
+    },
+    "description": "Key Responsibilities · Responsible for Budgeting, Forecasting, Reforecasts, Financial Commitment Process · Manage change to deliver on stricter Timelines and being Accurate under Pressure · Supports profit improvement activities driving significant gains · Excels in analyzing profitability data and uncovering actionable insights · Work with India FP&A Leaders & TPUKISSA Finance to implement strategies to present actionable financial information to business leaders · Implement best practices in …",
+    "longitude": 75.9469,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5841755459",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.in/land/ad/5841755459?se=oAZJbkCg8RGoxpN31Vp7kA&utm_medium=api&utm_source=67045292&v=ACCF7D6583ADC5A5D5EF2149E36BC92A88575A0F",
+    "title": "Assistant Manager",
+    "latitude": 26.7441,
+    "created": "2026-08-14T16:34:42Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0FaSmJrQ2c4UkdveHBOMzFWcDdrQSIsImkiOiI1ODQxNzU1NDU5In0.dNgW_rgkum_Q_XpaIlHyvV_UckP3PjAOaUXJrA8CTRk",
+    "category": {
+      "tag": "accounting-finance-jobs",
+      "label": "Accounting & Finance Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM2OTc1NjAzNyIsInMiOiJvQVpKYmtDZzhSR294cE4zMVZwN2tBIn0.dbnISRH-rkiSMjbwRSd-kpRUN1-B-W3ISfGh6PlFE4k",
+    "redirect_url": "https://www.adzuna.in/details/5369756037?utm_medium=api&utm_source=67045292",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "longitude": 75.9469,
+    "contract_time": "full_time",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2025-08-27T05:48:43Z",
+    "latitude": 26.7441,
+    "title": "Power BI Developer",
+    "id": "5369756037",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 1600000,
+    "company": {
+      "display_name": "Resources Valley",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Key Responsibilities: Design, develop, and maintain interactive dashboards and reports using Power BI and Looker. Write and optimize DAX queries to support complex business logic and calculations. Collaborate with data engineers, analysts, and business stakeholders to understand reporting needs and translate them into technical solutions. Ensure data accuracy, consistency, and performance across BI solutions. Perform data analysis and validation to support business initiatives. Automate and str…",
+    "salary_min": 600000
+  },
+  {
+    "company": {
+      "display_name": "Deutsche Bank",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description BMAG (Business Management and Analytics Group) partners with various COOs/Operations leads in delivering various value added reporting, analytics and lead/support in various projects and initiatives. As an Associate in Business Management & Analytics Group, Create informative…",
+    "salary_is_predicted": "0",
+    "longitude": 75.9469,
+    "contract_time": "full_time",
+    "latitude": 26.7441,
+    "created": "2026-08-18T18:03:39Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0FaSmJrQ2c4UkdveHBOMzFWcDdrQSIsImkiOiI1ODQ2NzIzNDEyIn0.X3mGT4xF7fMUuEG1vNq8yGYNOkaxlZQWbnpPxh_gcJ8",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5846723412",
+    "title": "BMAG – Analytics Analyst, AS",
+    "redirect_url": "https://www.adzuna.in/land/ad/5846723412?se=oAZJbkCg8RGoxpN31Vp7kA&utm_medium=api&utm_source=67045292&v=135CD9B01F5791BE8307555C20F7F5B09B339D31"
+  },
+  {
+    "longitude": 75.80805,
+    "contract_type": "permanent",
+    "company": {
+      "display_name": "Shuru Technologies Private Limited",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "This is a remote position. Shuru is a self-managed technology team specializing in accelerating visions through product, technology, and AI leadership. With a focus on bespoke execution, we deliver impactful solutions that are scalable and designed for success. At Shuru, we deliver mobile solutions that meet and exceed customer expectations. Our collaborative and fast-paced environment encourages creativity and innovation. We are looking for a Senior Reporting Analyst with strong hands-on exper…",
+    "salary_is_predicted": "0",
+    "title": "Data Analyst",
+    "redirect_url": "https://www.adzuna.in/details/5849923648?utm_medium=api&utm_source=67045292",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "display_name": "Sanganer, Jaipur",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur",
+        "Sanganer"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5849923648",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "latitude": 26.9172,
+    "created": "2026-08-21T01:15:50Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0FaSmJrQ2c4UkdveHBOMzFWcDdrQSIsImkiOiI1ODQ5OTIzNjQ4In0.dKyGVlYVv7h2JVcB4HD0SwEjCBWVpZfZDuz_diXnV2w"
+  },
+  {
+    "created": "2026-08-21T07:39:08Z",
+    "latitude": 26.7441,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1MDM3NzE5NSIsInMiOiJvQVpKYmtDZzhSR294cE4zMVZwN2tBIn0.smTKfHYo1AEKEpqvsJ3n0CbusGMZU30LwH3Z7JcARxY",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5850377195",
+    "title": "React Full stack Developer",
+    "redirect_url": "https://www.adzuna.in/details/5850377195?utm_medium=api&utm_source=67045292",
+    "company": {
+      "display_name": "Vichara Technologies",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Key deliverables: Design and build Power BI dashboards and visualizations Develop and optimize SQL queries for ETL processes Implement complex DAX measures and calculations Maintain data models using star and snowflake schemas Role responsibilities: Translate business needs into BI solutions Ensure optimal performance of BI reports and queries Collaborate with stakeholders for data insights Maintain data quality and consistency across systems Skills: Performance Tuning, Data Modeling, Power Bi,…",
+    "salary_is_predicted": "0",
+    "longitude": 75.9469
+  },
+  {
+    "salary_is_predicted": "0",
+    "description": "Key Responsibilities Analyze large datasets and generate insights Develop dashboards and automated reports Support business teams with data-driven analysis Improve data processes and reporting structures Review and validate analytical outputs Skills Advanced Excel and data analysis Data visualization tools (Power BI, Tableau) SQL or basic database querying Analytical problem solving Experience Required 2–4 years Education Required Bachelor’s or Master’s degree in Data Analytics, Statistics, Com…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Seternity Solutions"
+    },
+    "contract_time": "full_time",
+    "longitude": 74.604,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "display_name": "Ajmer, Rajasthan",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Ajmer"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5835481813",
+    "title": "Senior Data Analyst",
+    "redirect_url": "https://www.adzuna.in/details/5835481813?utm_medium=api&utm_source=67045292",
+    "created": "2026-08-10T16:02:30Z",
+    "latitude": 26.52495,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNTQ4MTgxMyIsInMiOiJvQVpKYmtDZzhSR294cE4zMVZwN2tBIn0.8F8aAqf9hqQmEbD1oaftXAphKpoN5TsOFevQH6EqBWA",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    }
+  },
+  {
+    "contract_time": "full_time",
+    "longitude": 73.699,
+    "salary_is_predicted": "0",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Kadel Labs"
+    },
+    "description": "About Kadel Labs Kadel Labs is a deep-tech IT services company delivering high-quality technology solutions since 2017. We specialize in Digital Transformation, Data Engineering, Cloud, AI/ML, and Enterprise Applications, helping global enterprises build scalable and innovative solutions. Kadel Labs is a CMMI Level 3 and ISO 27001:2022 certified organization committed to engineering excellence and customer success. About the Role: Data & Reporting Analyst (Credit Card Risk) Role Purpose: Own ri…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "latitude": 24.55955,
+    "created": "2026-08-11T20:59:03Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0FaSmJrQ2c4UkdveHBOMzFWcDdrQSIsImkiOiI1ODM2ODQ2NzU5In0.SJrI36dTaD_sA-4GJD-WWzdBEPyJ-c2KGSN93PyFY2I",
+    "redirect_url": "https://www.adzuna.in/details/5836846759?utm_medium=api&utm_source=67045292",
+    "title": "Data & Reporting Analyst (Credit Card Risk)",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "area": [
+        "India",
+        "Rajasthan",
+        "Udaipur",
+        "Badgaon"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Badgaon, Udaipur"
+    },
+    "id": "5836846759"
+  },
+  {
+    "longitude": 75.9469,
+    "contract_time": "full_time",
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg1NTMxMjc0NyIsInMiOiJvQVpKYmtDZzhSR294cE4zMVZwN2tBIn0.wOguav3e454YgVMU1bgErQPDjyJ8CVB5mpWhYgyjYYY",
+    "redirect_url": "https://www.adzuna.in/details/4855312747?utm_medium=api&utm_source=67045292",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "display_name": "Jaipur, Rajasthan"
+    },
+    "salary_max": 400000,
+    "company": {
+      "display_name": "Litpix Studio Private Limited",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "About the Role: We are seeking a skilled Business Analyst to join our IT team. As a Business Analyst, you will be responsible for bridging the gap between business needs and technology solutions. You will work closely with stakeholders, developers, and project managers to ensure that requirements are gathered, analyzed, and implemented in alignment with the company’s business objectives. This role demands strong analytical, problem-solving, and communication skills, along with a solid understan…",
+    "salary_min": 200000,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "created": "2024-09-07T10:59:13Z",
+    "latitude": 26.7441,
+    "title": "Business Analyst",
+    "id": "4855312747",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "longitude": 75.9469,
+    "contract_time": "full_time",
+    "description": "Job Description: Job Title: Regulatory Data & Analytics, AVP Location: Jaipur, India Role Description The Regulatory Data & Analytics AVP will support the delivery of strategic regulatory reporting, data governance and operational resilience initiatives across the Bank. The role sits at the intersection of Business, Technology, Risk and Regulatory Change and is responsible for ensuring regulatory data is accurate, complete, traceable and governed in accordance with internal policies and externa…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Deutsche Bank"
+    },
+    "salary_is_predicted": "0",
+    "title": "Regulatory Data & Analytics, AVP",
+    "redirect_url": "https://www.adzuna.in/details/5838510793?utm_medium=api&utm_source=67045292",
+    "id": "5838510793",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Jaipur, Rajasthan"
+    },
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2026-08-12T21:05:03Z",
+    "latitude": 26.7441,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzODUxMDc5MyIsInMiOiJvQVpKYmtDZzhSR294cE4zMVZwN2tBIn0.cX0pZu34zeDl0brSAiZqbQBg8I52PElrLIrYFUjF7bI"
+  },
+  {
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ]
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5851750199",
+    "title": "Competitive Pricing Analyst",
+    "redirect_url": "https://www.adzuna.in/details/5851750199?utm_medium=api&utm_source=67045292",
+    "created": "2026-08-22T05:51:27Z",
+    "latitude": 26.7441,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0FaSmJrQ2c4UkdveHBOMzFWcDdrQSIsImkiOiI1ODUxNzUwMTk5In0.vXS1Q0b-tAYeWdKBWqan_57TNW2g0fVUeit5DmbQD9M",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "sales-jobs",
+      "label": "Sales Jobs"
+    },
+    "description": "Job Description: Competitive Pricing Analyst Location: Jaipur, Rajasthan (Work from Office) Job Type: Full-time Department: Pricing & Commercial Operations Shift: 2 PM to 11:30 PM IST [Mon to Friday} About The Role We are seeking a highly analytical and detail-oriented Competitive Pricing Analyst to strengthen our market intelligence and pricing research function. In this role, you will monitor competitor pricing, promotional programs, and market trends across the heavy-duty truck and industria…",
+    "company": {
+      "display_name": "ClickForge",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "0",
+    "contract_type": "permanent",
+    "longitude": 75.9469,
+    "contract_time": "full_time"
+  },
+  {
+    "longitude": 75.9469,
+    "salary_is_predicted": "0",
+    "company": {
+      "display_name": "Careem",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "The role is responsible for driving data-driven insights and strategies to fuel user acquisition, engagement, and retention across Careem's platform and verticals. The role holder will leverage advanced data analytics, understanding of consumer behavior, and prior grasp of key fundamental digital & growth metrics to define and analyze growth opportunities, optimize campaigns and initiatives, and improve key metrics such as CAC, conversion rate and reactivation rate. Key Accountabilities: Data C…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "latitude": 26.7441,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0FaSmJrQ2c4UkdveHBOMzFWcDdrQSIsImkiOiI1NTI1MDg0NDE3In0.GcziFqSpjP6_o7mklzk6E-mZQwXjr2OCHSA12Q4tF5A",
+    "created": "2025-12-03T05:54:43Z",
+    "title": "Analytics Manager",
+    "redirect_url": "https://www.adzuna.in/details/5525084417?utm_medium=api&utm_source=67045292",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ]
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5525084417"
+  },
+  {
+    "contract_time": "full_time",
+    "longitude": 75.9469,
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/4022970610?utm_medium=api&utm_source=67045292",
+    "location": {
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Jaipur, Rajasthan"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0FaSmJrQ2c4UkdveHBOMzFWcDdrQSIsImkiOiI0MDIyOTcwNjEwIn0.b1lq0QVJQ6IWSdz7V7MgEVFciiuBFNZn4jj1XMqEvHo",
+    "salary_min": 400000,
+    "salary_max": 1500000,
+    "company": {
+      "display_name": "Celebal Technologies Pvt Ltd",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Role – Dynamics 365 Experience – 3 years & above Location – Remote, Jaipur , Gurgaon, Noida Job Description: · Gather requirements from the client · Proactively builds and manages relationship with client management · Developing business cases, project plans and project documentation. · Deliver projects/work on-time, on-budget, and in a way that accomplishes client goals · Reviews and ensures high quality of work is delivered · Meets deadlines and manages competing priorities under pressure · A…",
+    "title": "Dynamics 365 Developer",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "4022970610",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "created": "2023-04-06T10:27:30Z",
+    "latitude": 26.7441
+  },
+  {
+    "title": "BMAG – Analytics Analyst, AS",
+    "redirect_url": "https://www.adzuna.in/details/5832079655?utm_medium=api&utm_source=67045292",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5832079655",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ]
+    },
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "latitude": 26.7441,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzMjA3OTY1NSIsInMiOiJvQVpKYmtDZzhSR294cE4zMVZwN2tBIn0.jYv82SEyNB47-dlCWzWD-jynoJmtx0pW_1JsIG9upN0",
+    "created": "2026-08-07T20:42:53Z",
+    "longitude": 75.9469,
+    "contract_time": "full_time",
+    "company": {
+      "display_name": "Deutsche Bank",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Job Description: Job Title: BMAG – Analytics Analyst, AS Corporate Title: Associate Location: Jaipur, India Role Description BMAG (Business Management and Analytics Group) partners with various COOs/Operations leads in delivering various value added reporting, analytics and lead/support in various projects and initiatives. As an Associate in Business Management & Analytics Group, Create informative, actionable and repeatable reporting that highlights relevant business trends and opportunities f…",
+    "salary_is_predicted": "0"
+  },
+  {
+    "contract_time": "full_time",
+    "longitude": 75.9469,
+    "salary_is_predicted": "0",
+    "company": {
+      "display_name": "सादा / SAADAA",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "About सादा / Saadaa We are a direct-to-consumer (D2C) lifestyle brand. Our vision is to advocate the सादा / SAADAA way of living and make बेहतर / BETTER basics for everyone. Top 1% Shopify stores in India, we have been bootstrapped and profitable with industry-leading benchmarks. From a 100 sq. ft. garage to a 150 people team in just 4 years — we are just getting started. Role Overview We are looking for an Ecommerce Marketplace Specialist who will drive the growth and performance of SAADAA acr…",
+    "title": "Ecommerce Marketplace Manager",
+    "redirect_url": "https://www.adzuna.in/details/5843020419?utm_medium=api&utm_source=67045292",
+    "id": "5843020419",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ]
+    },
+    "category": {
+      "label": "Retail Jobs",
+      "tag": "retail-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2026-08-15T16:04:18Z",
+    "latitude": 26.7441,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0MzAyMDQxOSIsInMiOiJvQVpKYmtDZzhSR294cE4zMVZwN2tBIn0.Jw0e3hkzIJ_pYYJf6c5GaffeSUUIvjqsaOscjRY8BJQ"
+  },
+  {
+    "company": {
+      "display_name": "ClickForge",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Department: Customer Service Operations (CSOD) Location: Jaipur, Rajasthan (Work from Office) Shift: 6 PM to 3:30 AM (Supporting U.S. Business Hours) Reporting To: Director – Customer Service Operations About The Role We are looking for a highly organized and detail-oriented Customer Service Operations Specialist (CSOS) to join our growing Customer Service Operations team. This is a non-customer-facing operational role responsible for supporting the U.S. Customer Service team by handling order …",
+    "salary_is_predicted": "0",
+    "longitude": 75.9469,
+    "contract_time": "full_time",
+    "created": "2026-08-01T15:56:30Z",
+    "latitude": 26.7441,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0FaSmJrQ2c4UkdveHBOMzFWcDdrQSIsImkiOiI1ODIzODAzMDk0In0.TAbQO_JmbNBSxcJ9PRvjdeWqwie4Nt1mRyRlUjEi9GM",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "admin-jobs",
+      "label": "Admin Jobs"
+    },
+    "id": "5823803094",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "display_name": "Jaipur, Rajasthan",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Jaipur"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "title": "Customer Service Operations Specialist (CSOS)",
+    "redirect_url": "https://www.adzuna.in/details/5823803094?utm_medium=api&utm_source=67045292"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NDEzOTYzNSIsInMiOiJvQVpKYmtDZzhSR294cE4zMVZwN2tBIn0.mSSigwF3dnvV28j2_wE-WgBlBk0M4bEHXdiJ_NjpsWs",
+    "latitude": 26.52495,
+    "created": "2026-08-16T16:03:19Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Rajasthan",
+        "Ajmer"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Ajmer, Rajasthan"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5844139635",
+    "redirect_url": "https://www.adzuna.in/details/5844139635?utm_medium=api&utm_source=67045292",
+    "title": "Product Data Specialist",
+    "description": "Home Werken bij Product Data Specialist - Breda (40 uur) Inloggen met je account E-mailadres Wachtwoord Wachtwoord vergeten? Account aanmaken Account aanmaken Product Data Specialist Solliciteer direct Breda | mbo/hbo | 40 uur Ben jij een nauwkeurige, proactieve aanpakker met werkervaring in systemen, data en processen? Dan hebben wij een mooie kans voor jou! Voor ons Inkoop team zoeken wij een Product Data Specialist die het een uitdaging vindt om te werken met data, graag processen wil begrij…",
+    "company": {
+      "display_name": "Satelliet Meubelen B.V.",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "0",
+    "longitude": 74.604,
+    "contract_time": "full_time"
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/5825816927?utm_medium=api&utm_source=67045292",
+    "title": "Data Scientist",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5825816927",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Rajasthan",
+        "Ajmer"
+      ],
+      "display_name": "Ajmer, Rajasthan"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "latitude": 26.52495,
+    "created": "2026-08-02T21:35:04Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNTgxNjkyNyIsInMiOiJvQVpKYmtDZzhSR294cE4zMVZwN2tBIn0.bH5n407egu-V7WPCpz_icPp7SZ7egqExWKnHbmPHfi8",
+    "contract_time": "full_time",
+    "contract_type": "permanent",
+    "longitude": 74.604,
+    "salary_is_predicted": "0",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Easiio, Inc"
+    },
+    "description": "Software Engineer Mobile App Developer What is the Data Scientist? A data scientist is a professional who utilizes their expertise in statistics, programming, and domain knowledge to analyze complex data sets and extract valuable insights. They are skilled in using various tools and techniques to clean, process, and interpret data in order to help organizations make informed decisions and solve problems. Data scientists play a crucial role in today's data-driven world by transforming raw data i…"
+  },
+  {
+    "id": "5828954822",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "longitude": 74.604,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Branxl Academy"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Rajasthan",
+        "Ajmer"
+      ],
+      "display_name": "Ajmer, Rajasthan",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "created": "2026-08-05T15:58:40Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 26.52495,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyODk1NDgyMiIsInMiOiI5SWJaY2tDZzhSR3N0NFlmSEdMSUxBIn0.evBX5BjtPpgzrU8kaaQ7k6fY0Nyf52IgEuQC0RIjXSQ",
+    "redirect_url": "https://www.adzuna.in/details/5828954822?utm_medium=api&utm_source=67045292",
+    "title": "Data Science & Machine Learning",
+    "contract_time": "full_time",
+    "description": "Career Hub Data Science & Machine Learning Overview Data scientists build statistical models and machine learning systems to extract predictive or descriptive insight from data. In practice the role blends data engineering, statistics, programming, and domain knowledge. Many data scientists in UK companies spend more time on data cleaning, exploration, and stakeholder communication than on model training. A junior data scientist who can deliver reliable analysis and communicate uncertainty clea…"
+  }
+]
